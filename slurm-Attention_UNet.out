@@ -1,0 +1,16 @@
+/orfeo/cephfs/scratch/cdslab/scocomello/DEEP/prepare_data_and_model.py:745: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  att_4 = torch.tensor(att_4[0])
+/orfeo/cephfs/scratch/cdslab/scocomello/DEEP/prepare_data_and_model.py:751: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  att_3 = torch.tensor(att_3[0])
+/orfeo/cephfs/scratch/cdslab/scocomello/DEEP/prepare_data_and_model.py:757: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  att_2 = torch.tensor(att_2[0])
+/orfeo/cephfs/scratch/cdslab/scocomello/DEEP/prepare_data_and_model.py:763: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  att_1 = torch.tensor(att_1[0])
+Current date and time when starting UNet with Attention (Attention_UNet) training: 
+2024-08-18 13:47:31
+Total Parameters: 3,258,263
+
+Training...
+Training complete.
+Current date and time : 
+2024-08-18 14:36:52

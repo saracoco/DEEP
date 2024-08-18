@@ -1,0 +1,26 @@
+Found 45410 .h5 files:
+Example file names:['volume_322_slice_5.h5', 'volume_122_slice_27.h5', 'volume_266_slice_113.h5']
+
+Keys for each file: ['image', 'mask']
+
+Data type of image: <class 'numpy.ndarray'>
+Shape of image: (240, 240, 4)
+Array dtype: float64
+Array max val: 5.32210268183823
+Array min val: -0.5061043694129386
+
+Data type of mask: <class 'numpy.ndarray'>
+Shape of mask: (240, 240, 3)
+Array dtype: uint8
+Array max val: 1
+Array min val: 0
+Training batch - Images shape: torch.Size([5, 4, 240, 240]) Masks shape: torch.Size([5, 3, 240, 240])
+Validation batch - Images shape: torch.Size([5, 4, 240, 240]) Masks shape: torch.Size([5, 3, 240, 240])
+Current date and time : 
+2024-08-18 12:02:58
+Total Parameters: 3,082,739
+
+Training...
+Training complete.
+Current date and time : 
+2024-08-18 12:27:51

@@ -1,0 +1,6 @@
+#ignore data files as they are too heavy
+data/
+results_initial/
+results/
+plots_initial/
+plots/
